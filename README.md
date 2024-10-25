@@ -57,8 +57,3 @@ Il gioco è composto dalle seguenti classi e funzioni principali:
 ## 🏅 Highscore
 L'highscore è salvato in un file `highscore.json` ed è aggiornato automaticamente se il nuovo punteggio supera il precedente record.
 
-## 📜 License
-MIT License
-
-## 📬 Contatti
-Per qualsiasi domanda, contattami su [tuo_email@example.com](mailto:tuo_email@example.com).
