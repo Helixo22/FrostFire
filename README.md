@@ -10,7 +10,7 @@
 ## 🚀 Installazione
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo_utente/frostfire.git
+   git clone https://github.com/Helixo22/FrostFire.git
    ```
 2. Naviga nella directory del progetto:
    ```bash
