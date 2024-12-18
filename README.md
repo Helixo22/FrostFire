@@ -24,7 +24,7 @@
 ## 🎮 Utilizzo
 Per avviare il gioco, esegui:
 ```bash
-python frostfire.py
+python main.py
 ```
 
 ## 🕹️ Controlli
